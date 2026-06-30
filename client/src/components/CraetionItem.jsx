@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Markdown from 'react-Markdown'
+import Markdown from 'react-markdown'
 
 const CraetionItem = ({ item }) => {
     const [expanded, setExpanded] = useState(false)
